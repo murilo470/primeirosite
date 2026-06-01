@@ -1,15 +1,22 @@
 body{
      background-color: rgb(0, 0, 0);
+     background-image: url("puma.png");
      text-align: center;
 }
 .cartao{
-    width: 40%;
+    width: 60%;
     background-color: rgb(0, 66, 248);
     margin: auto;
+    border-radius: 50px;
+    border-style: groove;
+    border-color: red;
 }
 img{
-    width: 200px;
+    width: 500px;
 }
 p, h1, H2{
     color: rgb(12, 230, 41);
+}
+a{
+    text-decoration: black;
 }
