@@ -1,8 +1,8 @@
 body{
      background-color: rgb(0, 0, 0);
-     background-image: url("puma.png");
+     background-image: url("cbf-1.jpg");
      text-align: center;
-     background-size: 100px;
+     background-size: 150px;
 }
 .cartao{
     width: 50%;
@@ -15,7 +15,7 @@ body{
 img{
     border-radius: 50px;
     margin-top: 50px;
-    width: 600px;
+    width: 500px;
 }
 p, h1, H2{
     color: rgb(0, 81, 255);
