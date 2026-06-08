@@ -2,20 +2,23 @@ body{
      background-color: rgb(0, 0, 0);
      background-image: url("puma.png");
      text-align: center;
+     background-size: 100px;
 }
 .cartao{
-    width: 60%;
-    background-color: rgb(0, 66, 248);
+    width: 50%;
+    background-color: rgb(232, 248, 0);
     margin: auto;
     border-radius: 50px;
     border-style: groove;
-    border-color: red;
+    border-color: rgb(7, 235, 18);
 }
 img{
-    width: 500px;
+    border-radius: 50px;
+    margin-top: 50px;
+    width: 600px;
 }
 p, h1, H2{
-    color: rgb(12, 230, 41);
+    color: rgb(0, 81, 255);
 }
 a{
     text-decoration: black;
